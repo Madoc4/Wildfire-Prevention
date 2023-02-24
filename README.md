@@ -1,5 +1,5 @@
 # Wildfire-Prevention
-Multiple-Linear Regression algorithm which identifies areas at high risk of wildfire. 
+Multiple-Linear Regression algorithm which identifies and predicts areas at high risk of wildfire. 
 
 This algorithm was written in Python and in order to run you will need the following packages:
   1. Pandas
