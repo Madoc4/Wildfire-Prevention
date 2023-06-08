@@ -9,7 +9,7 @@ This algorithm was written in Python and in order to run you will need the follo
   5. Plotly
 
 Before running the main file, you must first run the generate_data file to make a csv learning file for your machine learning model.
-You can change the number of lines of data generated, but its default is 20,000.
+You can change the number of lines of data generated, but its default is 1,000.
 
 When running both files, be aware that it may take a while for the program to finish. 
 
